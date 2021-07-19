@@ -32,7 +32,6 @@ Estrutura de Dados do tipo pilha é usada para armazenamento de dados com um tip
 
 ### Funções Utilizadas
 <h1 align=""> </h1>
-Como utilizar a estrutura de dados Pilha
 Algumas operações básica de estrutura de dados de pilha, seriam:
 
 ### Instanciação
@@ -110,6 +109,8 @@ Apesar do Python ser um dos componentes padrões de vários sistemas operacionai
 ### Testes
 <h1 align=""> </h1>
 
+Alguns teste foram feitos para por em prova o empilhamento de dados do tipo Float e possíveis entradas do usuários.
+Nessa entradas foram levada em contas, entradas corretas, ou seja do tipo FLOAT e entradas do quais o empilhamento não deve ser feito, como entradas de valores inteiros, de string, de dados vazios, entre outros tipo de entradas.
 
 ![image](https://user-images.githubusercontent.com/80843917/126229299-89b1eafd-1f29-4719-9abc-5df450044c3c.png)
 
@@ -127,7 +128,7 @@ Alguns erros foram sanados durante o processo, caso o usuário entrasse com valo
 * Usuário entrar com String de Floats
 
 Esses erros foram contornados com condicionais e Tratamento de Erro e Exceções..
-Com isso chegamos a nossa estruturação de dados do tipo PILHA, com entrada em valores FLOAT.
+Com isso ffoi chegada a estruturação de dados do tipo PILHA, com entrada em valores FLOAT.
 
 De modo geral pilhas são usualmente utilizadas por muitos programadores para estruturação de dados.
 Dessa forma alguns exemplos de sistema onde usa essa estrura são:
