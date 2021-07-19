@@ -71,6 +71,21 @@ Visualiza todo os valores correspondentes as suas posições na pilha de dados. 
 ### Como Usar 
 <h1 align=""> </h1>
 
+Para uma melhor interação com o usuário, foi utilizado uma função Main. Com isso o usuário teria opções em número para escolher quais procedimentos iria querer realizar com a pilha de FLOAT.
+
+Função Main Interagindo com o Usuário:
+
+![image](https://user-images.githubusercontent.com/80843917/126230995-e19a363c-2a60-4a45-9129-6cea03fe42e8.png)
+
+Com isso dentro das opções escolhidas você irá realizar uma tarefa na pilha, caso escolha a função empilhar, logo após você entrará com o número FLOAT desejado para o armazenamento do dado na PILHA.
+
+Exemplo 1:
+
+![image](https://user-images.githubusercontent.com/80843917/126231200-0c97d519-00ec-4be3-99c0-4db21b1c2cef.png)
+
+
+
+
 
 ### Instalação
 <h1 align=""> </h1>
@@ -99,12 +114,22 @@ Apesar do Python ser um dos componentes padrões de vários sistemas operacionai
 ![image](https://user-images.githubusercontent.com/80843917/126229299-89b1eafd-1f29-4719-9abc-5df450044c3c.png)
 
 
-
-
 ### Conclusão
 <h1 align=""> </h1>
-De modo geral pilha são usualmente utilizadas por muitos programadores para estruturação de dados.
+No Desafio Engenharia prospoto, nossa estruturação de dados, armazenava elementos com valor FLOAT, com isso criamos pilhas com esses valores.
 
+Alguns erros foram sanados durante o processo, caso o usuário entrasse com valores diferentes de FLOAT como por exemplo:
+
+* Usuário entrar com valores Inteiros(int)
+* Usuário entrar com Strings (str)
+* Usuário entrar com  Listas Vazias ([])
+* Usuário entrar com valores nulos ('')
+* Usuário entrar com String de Floats
+
+Esses erros foram contornados com condicionais e Tratamento de Erro e Exceções..
+Com isso chegamos a nossa estruturação de dados do tipo PILHA, com entrada em valores FLOAT.
+
+De modo geral pilhas são usualmente utilizadas por muitos programadores para estruturação de dados.
 Dessa forma alguns exemplos de sistema onde usa essa estrura são:
 * Funções recursivas em compiladores;
 * Mecanismo de desfazer/refazer dos editores de texto;
