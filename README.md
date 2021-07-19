@@ -95,6 +95,12 @@ Apesar do Python ser um dos componentes padrões de vários sistemas operacionai
 ### Testes
 <h1 align=""> </h1>
 
+
+![image](https://user-images.githubusercontent.com/80843917/126229299-89b1eafd-1f29-4719-9abc-5df450044c3c.png)
+
+
+
+
 ### Conclusão
 <h1 align=""> </h1>
 De modo geral pilha são usualmente utilizadas por muitos programadores para estruturação de dados.
