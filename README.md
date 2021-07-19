@@ -40,17 +40,32 @@ Algumas operações básica de estrutura de dados de pilha, seriam:
 
 ### Empilhar
 Empilhamento nessa estrutura de dados é adicionar um dado ao topo da pilha, ou seja, dessa forma você adiciona dados em forma sequênciais sem afetar o restante da pilha. Não é possível empilhar ou adicionar dados ao meio ou inicio da pilha, essa ação só pode ser feita no topo.
+
+![image](https://user-images.githubusercontent.com/80843917/126227902-b2f265f1-a4c9-499e-9de2-989f9f2a8ac6.png)
+
+
 ### Desempilhar
 O desempilhar nessa estrutura de dados é a retirada do dado do topo da pilha, com isso você retira o último dado da estrutura sem afetar o restante da pilha. Não é possível retirar dados que não sejam do topo.
+
+![image](https://user-images.githubusercontent.com/80843917/126228184-03723a95-8007-45bb-b055-c64980fbf40c.png)
+
 ### Topo
 Mostrar o Topo da estrutra de dados, ou seja, nessa função tem como objetivo ver o último valor/dado que foi empilhado, assim como ver o próximo a ser desempilhado/retirado.
+
+![image](https://user-images.githubusercontent.com/80843917/126228272-e1f386c0-abbb-4d4d-94c1-c54e38a31cbd.png)
+
 
 ### Menor Valor
 Nessa casso, com valores float, tem como função ver o dado de menor valor Float da pilha de dado.
 
+![image](https://user-images.githubusercontent.com/80843917/126228330-e061ec71-54d5-4ed1-8b1c-f970538d2762.png)
+
+
 ### Visualizar a Pilha
 
 Visualiza todo os valores correspondentes as suas posições na pilha de dados. Ou seja, nele podemos ter o panorâma geral da estrura da pilha e seus respectivos valores.
+
+![image](https://user-images.githubusercontent.com/80843917/126228362-566843ad-96dd-4c05-9e8e-c09cfe53dc2d.png)
 
 
 ### Como Usar 
@@ -82,10 +97,9 @@ Apesar do Python ser um dos componentes padrões de vários sistemas operacionai
 
 ### Conclusão
 <h1 align=""> </h1>
+De modo geral pilha são usualmente utilizadas por muitos programadores para estruturação de dados.
 
 Dessa forma alguns exemplos de sistema onde usa essa estrura são:
 * Funções recursivas em compiladores;
 * Mecanismo de desfazer/refazer dos editores de texto;
 * Navegação entre páginas Web;
-
-![image](https://user-images.githubusercontent.com/80843917/126227902-b2f265f1-a4c9-499e-9de2-989f9f2a8ac6.png)
