@@ -114,6 +114,7 @@ Nessa entradas foram levada em contas, entradas corretas, ou seja do tipo FLOAT 
 
 ![image](https://user-images.githubusercontent.com/80843917/126229299-89b1eafd-1f29-4719-9abc-5df450044c3c.png)
 
+![image](https://user-images.githubusercontent.com/80843917/126232054-e57b8287-7a8e-40e6-8ce6-b3ecca1fee0e.png)
 
 ### Conclusão
 <h1 align=""> </h1>
