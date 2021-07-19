@@ -19,7 +19,7 @@ Tabela de conteúdos
       * [Pré Requisitos](#pré-requisitos)
       * [Local files](#local-files) 
    * [Como usar](#como-usar)
-   * [Tests](#testes)
+   * [Testes](#testes)
    * [Conclusão](#conclusão)
 <!--te-->
 
@@ -92,7 +92,7 @@ Apesar do Python ser um dos componentes padrões de vários sistemas operacionai
 
 [Pycharm (Windows/MacOS/Linux)](https://www.jetbrains.com/pt-br/pycharm/download/)
 
-### Teste
+### Testes
 <h1 align=""> </h1>
 
 ### Conclusão
